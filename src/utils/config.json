@@ -1,0 +1,22 @@
+[
+    {
+        "title": "card1",
+        "info": "lorem1",
+        "services":[
+            {
+                "age":"15"
+            },
+            {
+                "age":"15"
+            }
+        ]
+    },
+    {
+        "title": "card2",
+        "info": "lorem2"
+    },
+    {
+        "title": "card3",
+        "info": "lorem3"
+    }
+]
